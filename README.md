@@ -1,5 +1,5 @@
 # AWS Data Immersion Day
-This is a helper page for immersion day on July 19th 2022.
+This is a helper page for immersion day on September 21st 2022.
 
 ### Agenda
 The agenda is as below; time is in AEST and is subject to change depending on the progress.
@@ -26,8 +26,7 @@ The participants are free to explore other areas however the support staff will 
 
 ### Housekeeping
   * Use AWS account provided by event host (not your company/personal account)
-  * Please do not use company/personal datasets
-  * Light breakfast, lunch and snacks will be provided
+  * For security reasons, please do not use company/personal datasets
+  * Uber lunch vouchers will be provided
   * Top 3 winners of Quiz will receive prizes!
-  * Paul will organise the SWAG.
 
